@@ -1,5 +1,0 @@
-name: investor-toolkit
-channels:
-  - defaults
-dependencies:
-  - python=3.10
